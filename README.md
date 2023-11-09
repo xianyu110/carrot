@@ -5,7 +5,6 @@
 这儿为你准备了众多免费好用的ChatGPT镜像站点
 </br>
 
-分享站点、站点失效、标注错误，请<a href="https://github.com/xx025/carrot/issues">🌺点此🌺</a>
 </p>
 
 ---
