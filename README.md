@@ -1,7 +1,6 @@
 
 <p align="center">
-<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://github.com/xx025/carrot/assets/71559822/1c0ea333-08d1-4acf-9ae4-e7b9980c2727" alt="frct"/>
-</br>
+
 <h1>Free ChatGPT Site List</h1> 
 这儿为你准备了众多免费好用的ChatGPT镜像站点
 </br>
