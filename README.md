@@ -9,17 +9,6 @@
 
 ---
 
-[//]: # (<a href="" target="_blank" style="color: black">)
-
-[//]: # (<img src="" alt="Ad" style="height: 80px !important;width: auto !important;" ></a> [广告])
-
-[//]: # (<a href="" target="_blank" style="color: black">)
-
-[//]: # (👆 [广告])
-
-[//]: # (</a>)
-
-
 
 **标注说明**
 
